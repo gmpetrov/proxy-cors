@@ -1,11 +1,6 @@
 # proxy-cors
 Simple proxy to bypass CORS
 
-This code is running on [https://gmpetrov-proxy-cors.glitch.me](https://gmpetrov-proxy-cors.glitch.me)
-
-# proxy-cors
-Simple proxy to bypass CORS
-
 This server is running on [https://gmpetrov-proxy-cors.glitch.me](https://gmpetrov-proxy-cors.glitch.me)
 
 # Why
