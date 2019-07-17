@@ -17,11 +17,11 @@ app.use((req, res, next) => {
   next();
 });
 
-app.post('/', async (req, res) => {
+app.use(async (req, res) => {
   try {
-    const method = req.body.method || 'GET';
-    const url = req.body.url;
-    const data = req.body.data;
+    const method = req.method;
+    const data = req.body;
+    const url = req.path.replace(/^\//, '');
 
     const response = await axios({
       method,

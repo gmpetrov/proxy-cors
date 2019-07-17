@@ -10,13 +10,8 @@ Because i can't bear this 💩 message anymore "Access to XMLHttpRequest at X fr
 ## Usage
 ```javascript
 const payload = {
-  method: 'POST',
-  url: 'your_target_url',
-  data: {
-    // body
     productId: 42
-  }
 }
 
-anyHttpClient.post('https://gmpetrov-proxy-cors.glitch.me', payload)
+anyHttpClient.post('https://gmpetrov-proxy-cors.glitch.me/https://my.api', payload)
 ```
