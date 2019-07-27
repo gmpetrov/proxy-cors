@@ -1,7 +1,11 @@
-# <img src="media/logo-3.png" title="PROXY-CORS" alt="PROXY-CORS logo" width="454">
-
-# proxy-cors
-Simple proxy to bypass CORS
+<div align="center">
+	<img src="media/logo-3.png" title="PROXY-CORS" alt="PROXY-CORS logo" width="454">
+	<h1>proxy-cors</h1>
+	<p>
+		<b>Simple proxy to bypass CORS</b>
+	</p>
+	<br>
+</div>
 
 This server is running on [https://gmpetrov-proxy-cors.glitch.me](https://gmpetrov-proxy-cors.glitch.me)
 
