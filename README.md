@@ -1,3 +1,5 @@
+# <img src="media/logo.png" title="PROXY-CORS" alt="PROXY-CORS logo" width="490">
+
 # proxy-cors
 Simple proxy to bypass CORS
 
