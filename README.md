@@ -2,7 +2,7 @@
 	<img src="media/logo-3.png" title="PROXY-CORS" alt="PROXY-CORS logo" width="454">
 	<h1>proxy-cors</h1>
 	<p>
-		<b>Simple proxy to bypass CORS</b>
+		<b>Simple express server that demonstrates how to bypass CORS and forward requests</b>
 	</p>
 	<br>
 </div>
@@ -19,5 +19,5 @@ const payload = {
     productId: 42
 }
 
-anyHttpClient.post('https://gmpetrov-proxy-cors.glitch.me/https://my.api', payload)
+anyHttpClient.post('https://gmpetrov-proxy-cors.glitch.me/proxy-cors/https://my.api', payload)
 ```
